@@ -12,11 +12,23 @@ No floating button. No copying text. No screenshots piling up in your gallery.
 
 **[Download the latest APK](https://github.com/abocha/quick-lens/releases/latest)**
 
-## Preview
+## See it in action
 
-![Quick Lens main screen](.github/assets/main-screen.png)
+<p align="center">
+  <img src=".github/assets/quick-lens-demo.gif" alt="Quick Lens: tap the Quick Settings tile to open the current screen in Google Lens Translate" width="280">
+</p>
 
-![Quick Lens demo](.github/assets/quick-lens-demo.gif)
+<p align="center"><sub>Quick Settings → Quick Lens → Google Lens Translate · Recorded on an Android emulator</sub></p>
+
+<details>
+<summary>View the setup screen</summary>
+
+<p align="center">
+  <img src=".github/assets/main-screen.png" alt="Quick Lens setup screen with Accessibility Settings and Add Quick Settings Tile buttons" width="260">
+</p>
+
+</details>
+
 ## How it works
 
 **Open an app** → **Tap Quick Lens in Quick Settings** → **Read the translation in Google Lens**
