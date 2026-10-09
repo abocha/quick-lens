@@ -12,6 +12,11 @@ No floating button. No copying text. No screenshots piling up in your gallery.
 
 **[Download the latest APK](https://github.com/abocha/quick-lens/releases/latest)**
 
+## Preview
+
+![Quick Lens main screen](.github/assets/main-screen.png)
+
+![Quick Lens demo](.github/assets/quick-lens-demo.gif)
 ## How it works
 
 **Open an app** → **Tap Quick Lens in Quick Settings** → **Read the translation in Google Lens**
