@@ -29,6 +29,16 @@ No floating button. No copying text. No screenshots piling up in your gallery.
 
 </details>
 
+## Why Quick Lens exists
+
+For years, Google Assistant let you translate or extract text from almost any screen in just two taps.
+
+Then Google replaced Assistant with Gemini. The simple **Translate screen** button disappeared, and a two-tap action became a conversation with an AI. Progress, apparently.
+
+Circle to Search offers similar functionality, but isn't available on every Android phone.
+
+**Quick Lens brings back the simplicity. No chatbot. No floating buttons. Just translate your damn screen.**
+
 ## How it works
 
 **Open an app** → **Tap Quick Lens in Quick Settings** → **Read the translation in Google Lens**
