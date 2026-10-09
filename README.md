@@ -81,7 +81,7 @@ Run `gradlew assembleRelease`, verify the certificate with Android Build Tools' 
 | Device | Evidence |
 | --- | --- |
 | Pixel 7 AVD, Android 14 / API 34, x86_64, Google Play | v0.3.0 external-app capture and automatic Translate verified; synthetic protected-window, lifecycle and cache checks performed with ADB. |
-| POCO X5 5G, Android 14 / HyperOS | v0.2 main scenario confirmed by the owner. v0.3.0 validation pending; the emulator does not reproduce HyperOS. |
+| POCO X5 5G, Android 14 / HyperOS | v0.3.0 main scenario and operation after reboot confirmed by the owner on 2026-10-10. The emulator does not reproduce HyperOS. |
 
 ## License and origin
 
