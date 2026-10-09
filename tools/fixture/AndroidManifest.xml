@@ -1,0 +1,6 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="local.quicklens.fixture">
+    <uses-sdk android:minSdkVersion="31" android:targetSdkVersion="34" />
+    <application android:label="Quick Lens test fixture" android:theme="@android:style/Theme.Material.Light.NoActionBar" android:allowBackup="false">
+        <activity android:name=".TestActivity" android:exported="true" />
+    </application>
+</manifest>
