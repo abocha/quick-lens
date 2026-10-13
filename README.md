@@ -12,6 +12,14 @@ No floating button. No copying text. No screenshots piling up in your gallery.
 
 **[Download the latest APK](https://github.com/abocha/quick-lens/releases/latest)**
 
+## Alternative: CTSLauncher (no Accessibility required)
+
+Before installing Quick Lens, consider **[CTSLauncher](https://github.com/chenxiaolong/CTSLauncher)**. It triggers Google's contextual search / Circle to Search directly, without Quick Lens's Accessibility service, screenshot capture, or image sharing step. It provides a Quick Settings tile and can also be launched through device shortcuts.
+
+CTSLauncher was confirmed working on a **POCO X5 5G running Android 14 / HyperOS**, including from a Quick Settings tile and a configured power-button shortcut. On that device, it offers a simpler way to translate the current screen without keeping an Accessibility service enabled (which can conflict with banking apps).
+
+**Caveat:** CTSLauncher cannot enable Circle to Search on every device. The Google app decides whether to open contextual search, Assistant, or nothing, depending on the device and software configuration. Quick Lens remains available as a separate screenshot-to-Lens approach when CTSLauncher doesn't work.
+
 ## See it in action
 
 <p align="center">
